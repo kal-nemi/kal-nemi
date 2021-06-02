@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal-nemi&label=Profile%20views&color=50c4d3&style=flat" alt="kal-nemi" /> </p>
 
-- 🌱 I’m currently learning **DSA and Web development**
+- 🌱 I’m currently learning **DSA and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kal-nemi](https://github.com/kal-nemi)
 
