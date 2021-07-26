@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Visha Gupta</h1>
+<h1 align="center">Hi 👋, I'm Vishal Gupta</h1>
 <h3 align="center">An explorer who loves to explore new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal-nemi&label=Profile%20views&color=50c4d3&style=flat" alt="kal-nemi" /> </p>
