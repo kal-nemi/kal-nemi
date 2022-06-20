@@ -16,3 +16,9 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kal-nemi&show_icons=true&locale=en" alt="kal-nemi" /></p>
+
+
+## Hey! Check out the snake eating my contribution graph.
+![snake gif](https://github.com/kal-nemi/kal-nemi/blob/output/github-contribution-grid-snake.gif)
+
+
